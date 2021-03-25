@@ -4,6 +4,10 @@ The DownLinQ was the blog of In-Q-Tel CosmiQ Works from 2016 through 2021.
 
 ## 2021
 
+#### [Closing Time: CosmiQ Works is Closing Down and Ending its Leadership of SpaceNet](https://medium.com/the-downlinq/closing-time-cosmiq-works-is-closing-down-and-ending-its-leadership-of-spacenet-a53ba239745b)
+
+by Adam Van Etten ~ Mar 11, 2021
+
 #### [SpaceNet 7 Results: arXiv Paper and Winning Model Release](https://medium.com/the-downlinq/spacenet-7-results-arxiv-paper-and-winning-model-release-8da36df16aa5)
 
 by Adam Van Etten ~ Feb 16, 2021
